@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simple-mq&show_icons=true&locale=cn&theme=synthwave)
+
 - 👋 Hi, I’m @simple-mq, a 15 years old programmer.
 - 👀 I’m interested in Minecraft Addon and Rust.
 - 🌱 I’m currently learning Rust.
